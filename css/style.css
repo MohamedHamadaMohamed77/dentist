@@ -1,0 +1,14 @@
+.navbar{
+
+    border-bottom: 6px solid #dad7d7;
+}
+.nav-link{
+    font-size: 1.3rem;
+}
+header{
+    min-height: 100vh;
+    background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7))  , url(../images/header2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 200px;
+}
